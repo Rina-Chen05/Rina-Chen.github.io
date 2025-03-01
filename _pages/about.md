@@ -27,11 +27,8 @@ My research interests focus on the rehabilitation treatment of neurological diso
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
-- [**Wang, Z.**, & Park, J. (2025). Does larger mean riskier? Investigating risk perception and product size preference in insect-based food. Food Quality and Preference, 105490.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325000655?via%3Dihub)
-- [**Wang, Z.**, & Park, J. (2025). Japanese-made or Chinese-made? Exploring the country-of-origin (COO) effect on insect-based foods. Food Quality and Preference, 126, 105421.](https://www.sciencedirect.com/science/article/abs/pii/S0950329324003239?via%3Dihub)
-- [**Wang, Z.**, & Park, J. (2024). Anthropomorphism enhances consumers’ acceptance of insect-based foods by inducing positive responses and reducing negative responses. (Preprint)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946118)
-- [**Wang, Z.**, & Park, J. (2024). Does personality make a difference? Exploring the connections between the big five personality traits and entomophagy among Japanese consumers. Food Quality and Preference, 119, 105225.](https://www.sciencedirect.com/science/article/pii/S0950329324001277)
-- [**Wang, C.**, Zhu, Y., Wang, W. (2024). Current Status and Advances in the Application of Neuromodulation Techniques for Freezing of Gait in Parkinson's Disease. Chinese Journal of Rehabilitation Medicine, 39(7), 1068-1074.]
+- [**Wang, C.**, Zang, J., Tian, S., Li, C., Wang, W., Wang, J., Zhu, Y. (2024). Characteristic Analysis of Static Balance in Parkinson's Disease. Chinese Journal of Clinical Neurosciences, 32(01), 36-45+110.](https://kns.cnki.net/kcms2/article/abstract?v=yTFySdb0ipKDbsMusniYVU2QY69Vhkgy94WX-f0GfOOA0kaTsz-UP4eehcJ3gGujbcBkyfXV8Ap_TniQ7zWdVNFBV0o-xqc4YqWLWSFUiagcpyMrwFVaX-xG8yQVLGmGP__tmi6B-gS-rZVMygdz1CcF1mW7M58_Mzq3HD6Hm8d4nkioL3NYWKNdBn-iu_2N&uniplatform=NZKPT&language=CHS)
+- [**Wang, C.**, Zhu, Y., Wang, W. (2024). Current Status and Advances in the Application of Neuromodulation Techniques for Freezing of Gait in Parkinson's Disease. Chinese Journal of Rehabilitation Medicine, 39(7), 1068-1074.](https://www.cnki.com.cn/Article/CJFDTotal-ZGKF202407012.htm)
 
 # 📝 Conferences 
 - Society for Consumer Psychology - 2025 Annual Conference: Amplifying our Impact to Enhance Consumers’ Lives (27 February - 2 March 2025) — Keep away from it! Examining the contagion effect of insect-based food in the retail context. **Wang, Z.**, & Park, J.
