@@ -7,20 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html).
+I am a master student enrolled in the School of Exercise and Health at [Shanghai University Of Sport](https://yk.sus.edu.cn/). My supervisor is Professor [Yulian Zhu].
 
-My research interest includes consumer psychology and social psychology, especially consumers' food preferences and choices. I have published a few studies at international academic journals and conferences as below. Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com). <!-- with total google scholar citations <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'> <strong><span id='total_cit'>260000+</span></strong></a>. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research interests focus on the rehabilitation treatment of neurological disorders such as Parkinson's disease. I have published a few studies at academic journals and conferences as below. Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wchen2051@163.com](wchen2051@163.com). <!-- with total google scholar citations <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'> <strong><span id='total_cit'>260000+</span></strong></a>. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2024.04 - 2027.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
-- *2022.04 - 2024.03*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. 
-- *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. 
+- *2022.09 - 2025.06 (expected)*, Shanghai University Of Sport, Shanghai, China. Master of Science, majoring in medical technology. 
+- *2018.09 - 2022.07*, Shanghai University Of Sport, Shanghai, China. Bachelor of Science, majoring in exercise rehabilitation. 
 
 # 🔥 News
-- [*2024.12*: &nbsp;🎉🎉 Zining Wang (Doctoral Program, Graduate School of Commerce) has received the JACS Paper Proposal Award.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/12/78027/)
-- [*2024.11*: &nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)
-- [*2024.03*: &nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)
-- [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
+- [*2023.09*: &nbsp;🎉🎉 Public Announcement of the Selection Results for the National Scholarship and Academic Scholarship for Graduate Students of the Academic Year 2022-2023 at the School of Sports and Health Sciences.](https://yk.sus.edu.cn/info/1043/4070.htm)
+- [*2022.04*: &nbsp;🎉🎉 Public Announcement of the Proposed List of Nominees for the 2022 Shanghai Outstanding Graduates and College Outstanding Graduates from the Undergraduate Students of the School of Sports Science.](https://yk.sus.edu.cn/info/1043/3552.htm)
+- [*2021.09*: &nbsp;🎉🎉 Public Announcement of the Preliminary Selection List for the National Scholarship, Shanghai Municipal Scholarship, College Scholarship, and National Endeavor Scholarship for the Academic Year 2020-2021 at the School of Sports Science.](https://yk.sus.edu.cn/info/1043/1332.htm)
+- [*2020.10*: &nbsp;🎉🎉 Public Announcement of the Preliminary Selection List for the National Scholarship, Shanghai Municipal Scholarship, College Scholarship, and National Endeavor Scholarship for the Academic Year 2019-2020 at the School of Sports Science.](https://yk.sus.edu.cn/info/1043/1443.htm)
+- [*2019.09*: &nbsp;🎉🎉 Public Announcement of the Preliminary Selection List for the National Scholarship, Shanghai Municipal Scholarship, College Scholarship, and National Endeavor Scholarship for the Academic Year 2018-2019 at the School of Sports Science.](https://yk.sus.edu.cn/info/1043/1430.htm)
 
 # 📗 Publications 
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div>
@@ -31,7 +31,7 @@ My research interest includes consumer psychology and social psychology, especia
 - [**Wang, Z.**, & Park, J. (2025). Japanese-made or Chinese-made? Exploring the country-of-origin (COO) effect on insect-based foods. Food Quality and Preference, 126, 105421.](https://www.sciencedirect.com/science/article/abs/pii/S0950329324003239?via%3Dihub)
 - [**Wang, Z.**, & Park, J. (2024). Anthropomorphism enhances consumers’ acceptance of insect-based foods by inducing positive responses and reducing negative responses. (Preprint)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946118)
 - [**Wang, Z.**, & Park, J. (2024). Does personality make a difference? Exploring the connections between the big five personality traits and entomophagy among Japanese consumers. Food Quality and Preference, 119, 105225.](https://www.sciencedirect.com/science/article/pii/S0950329324001277)
-- [**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. Food Quality and Preference, 109, 104901.](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
+- [**Wang, C.**, Zhu, Y., Wang, W. (2024). Current Status and Advances in the Application of Neuromodulation Techniques for Freezing of Gait in Parkinson's Disease. Chinese Journal of Rehabilitation Medicine, 39(7), 1068-1074.]
 
 # 📝 Conferences 
 - Society for Consumer Psychology - 2025 Annual Conference: Amplifying our Impact to Enhance Consumers’ Lives (27 February - 2 March 2025) — Keep away from it! Examining the contagion effect of insect-based food in the retail context. **Wang, Z.**, & Park, J.
